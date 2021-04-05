@@ -1,0 +1,20 @@
+.carousel .slide {
+    background-color: transparent !important;
+    font-weight: bold;
+    opacity: 1 !important;
+   
+}
+.carousel .thumb {
+    height: 40px;
+    display: inline-block;
+    margin-right: 6px;
+    white-space: nowrap;
+    overflow: hidden;
+    border: 3px solid black;
+    padding: 0px;
+    
+}
+.body {
+    padding-bottom: 15px;
+    padding-left: 15%;
+}
